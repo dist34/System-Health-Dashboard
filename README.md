@@ -4,6 +4,8 @@
 This project is a **real-time system performance monitoring solution** that I built using **Python**, **Flask**, **MySQL/MariaDB**, and **Power BI**.\
 It continuously collects system metrics, stores them in a database, exposes API endpoints for external use, and displays everything inside a **live-updating Power BI dashboard**.
 
+![image alt](https://github.com/dist34/System-Health-Dashboard/blob/b688d1534373da66acecdaf12755d4a3a6c602d6/System%20Health%20Dashboard/Output%20Screenshots/Dashboard.png)
+
 * * * * *
 
 📂 Project Overview
@@ -63,7 +65,7 @@ Key responsibilities:
 
 -   Maintaining up-to-date information by automatically removing older entries
 
- ![ Alt text](https://github.com/dist34/System-Health-Dashboard/tree/0ec3f880e11b592ac40f1c7b01431188ac01302b/System%20Health%20Dashboard/Output%20Screenshots)
+ ![image alt](https://github.com/dist34/System-Health-Dashboard/blob/b688d1534373da66acecdaf12755d4a3a6c602d6/System%20Health%20Dashboard/Output%20Screenshots/Data%20Storage.png)
 
 
 
