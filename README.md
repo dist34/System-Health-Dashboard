@@ -63,7 +63,9 @@ Key responsibilities:
 
 -   Maintaining up-to-date information by automatically removing older entries
 
-**Screenshot of Database Table:**
+ ![ Alt text](https://github.com/dist34/System-Health-Dashboard/tree/0ec3f880e11b592ac40f1c7b01431188ac01302b/System%20Health%20Dashboard/Output%20Screenshots)
+
+
 
 * * * * *
 
